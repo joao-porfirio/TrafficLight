@@ -14,4 +14,7 @@ main {
 }
 .button {
     width: 81px;
+    border-radius: 4px;
+    background: floralwhite;
+    padding: 6px;
 }
